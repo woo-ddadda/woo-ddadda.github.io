@@ -56,3 +56,11 @@ img[src$='#link']
     display: inline-block;
     vertical-align: -2px;
 }
+
+img[src$='#image']
+{
+    /* margin-left: 28px; */
+    /* display: block; */
+    width:100%;
+    /* text-align:center; */
+}
