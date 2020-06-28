@@ -3,42 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://woo-ddadda.github.io/test/test/</loc>
-    <lastmod>2020-05-15T22:15:15+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://woo-ddadda.github.io/test/</loc>
-    <lastmod>2020-05-15T22:15:15+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://woo-ddadda.github.io/</loc>
-    <lastmod>2020-05-15T22:15:15+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://woo-ddadda.github.io/posts/greed/</loc>
-    <lastmod>2020-05-13T22:03:47+09:00</lastmod>
+    <loc>https://woo-ddadda.github.io/posts/_2020/etc/</loc>
+    <lastmod>2020-06-28T10:19:42+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://woo-ddadda.github.io/posts/</loc>
-    <lastmod>2020-05-13T22:03:47+09:00</lastmod>
+    <lastmod>2020-06-28T10:19:42+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://woo-ddadda.github.io/posts/etc/</loc>
+    <loc>https://woo-ddadda.github.io/</loc>
+    <lastmod>2020-06-28T10:19:42+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://woo-ddadda.github.io/posts/_2020/entertainment/</loc>
+    <lastmod>2020-06-28T07:12:13+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://woo-ddadda.github.io/posts/_2020/instalive-vlive/</loc>
+    <lastmod>2020-06-28T05:33:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://woo-ddadda.github.io/posts/_2020/1stgreed/</loc>
+    <lastmod>2020-06-28T01:05:05+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://woo-ddadda.github.io/posts/_2020/music-show/</loc>
+    <lastmod>2020-06-27T12:19:34+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://woo-ddadda.github.io/posts/before2020/etc/</loc>
     <lastmod>2020-05-08T10:19:42+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -52,28 +66,28 @@
   </url>
   
   <url>
-    <loc>https://woo-ddadda.github.io/posts/entertainment/</loc>
+    <loc>https://woo-ddadda.github.io/posts/before2020/entertainment/</loc>
     <lastmod>2020-05-03T07:12:13+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://woo-ddadda.github.io/posts/instalive-vlive/</loc>
+    <loc>https://woo-ddadda.github.io/posts/before2020/instalive-vlive/</loc>
     <lastmod>2020-05-03T05:33:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://woo-ddadda.github.io/posts/music-show/</loc>
+    <loc>https://woo-ddadda.github.io/posts/before2020/music-show/</loc>
     <lastmod>2020-05-02T12:19:34+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://woo-ddadda.github.io/posts/before/</loc>
+    <loc>https://woo-ddadda.github.io/posts/before2020/before/</loc>
     <lastmod>2020-05-02T08:28:35+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
