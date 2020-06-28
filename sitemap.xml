@@ -3,42 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://woo-ddadda.github.io/posts/_2020/etc/</loc>
-    <lastmod>2020-06-28T10:19:42+09:00</lastmod>
+    <loc>https://woo-ddadda.github.io/posts/_2020/1stgreed/</loc>
+    <lastmod>2020-06-28T01:05:05+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://woo-ddadda.github.io/posts/</loc>
-    <lastmod>2020-06-28T10:19:42+09:00</lastmod>
+    <lastmod>2020-06-28T01:05:05+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://woo-ddadda.github.io/</loc>
-    <lastmod>2020-06-28T10:19:42+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://woo-ddadda.github.io/posts/_2020/entertainment/</loc>
-    <lastmod>2020-06-28T07:12:13+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://woo-ddadda.github.io/posts/_2020/instalive-vlive/</loc>
-    <lastmod>2020-06-28T05:33:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://woo-ddadda.github.io/posts/_2020/1stgreed/</loc>
     <lastmod>2020-06-28T01:05:05+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -47,6 +26,27 @@
   <url>
     <loc>https://woo-ddadda.github.io/posts/_2020/music-show/</loc>
     <lastmod>2020-06-27T12:19:34+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://woo-ddadda.github.io/posts/_2020/etc/</loc>
+    <lastmod>2020-06-27T10:19:42+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://woo-ddadda.github.io/posts/_2020/entertainment/</loc>
+    <lastmod>2020-06-27T07:12:13+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://woo-ddadda.github.io/posts/_2020/instalive-vlive/</loc>
+    <lastmod>2020-06-27T05:33:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
